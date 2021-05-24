@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\!!!___NB\ооп\lab6\Project66\Source.cpp(16,20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project66\Source.cpp(49,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Project66.vcxproj -> F:\!!!___NB\ооп\lab6\Project66\Debug\Project66.exe

@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+F:\!!!___NB\ооп\lab6\Project66\Source.cpp(16,20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project66\Source.cpp(49,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library F:\!!!___NB\ооп\lab6\Project66\Debug\UnitTest1.lib and object F:\!!!___NB\ооп\lab6\Project66\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> F:\!!!___NB\ооп\lab6\Project66\Debug\UnitTest1.dll
